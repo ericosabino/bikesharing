@@ -47,7 +47,7 @@ Top Starting Locations | Top Ending Locations
 ## Resources:
 
 The report where the screenshots above were captured can be found at
-[this link](https://public.tableau.com/app/profile/ericosabino/viz/CitiBikeTripData-Challenge/NYCCitibikeAnalysis):
+[this link](https://public.tableau.com/app/profile/ericosabino/viz/CitiBikeTripData-Challenge/NYCCitibikeAnalysis).
 
 
 
