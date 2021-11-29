@@ -15,12 +15,12 @@ The data in the file contains a total of 2,344,224 rides. Most of these rides ha
 
 From these 145,752 rides, 108,087 are male riders, as they represent the biggest part of the total users:
 
-02_Checkout_per_Gender.png
+![](/Images/02_Checkout_per_Gender.png)
 ##### Fig 02. Checkout Times per Gender
 
 In terms of starttime, the most popular time to start the rides is at 6 PM at Thursdays.
 
-03_Trips_by_Weekday.png
+![](/Images/03_Trips_by_Weekday.png)
 ##### Fig 03. Trips by weekday for Each Hour
 
 When comparing starttime by gender, 11,336 female and 30,746 male riders started their trips at Thursdays 6 PM. 
@@ -28,26 +28,26 @@ Among the ones with gender classified as "unknown", the most popular time to sta
 
 Trips by Gender - Female | Trips by Gender - Male
 :-------------------------:|:-------------------------:
-![](04_Trips_by_Gender_female.png)  |  ![](04_Trips_by_Gender_male.png)
+![](/Images/04_Trips_by_Gender_female.png)  |  ![](/Images/04_Trips_by_Gender_male.png)
 ##### Fig 04. Trips by Gender
 
 In terms of subscribers, both male and female riders that have a subscription are more active. The users with gender classified as unkown are more active as indicidual customers than subscribers.
 
-05_Subscribers.png
+![](/Images/05_Subscribers.png)
 ##### Fig 05. User Trips by Gender (Subscribers vs Customers)
 
 Lastly, data shows that the most popular places to start and end rides is in Manhatan, most probably due to the large number of people workintg in the area.
 
 Top Starting Locations | Top Ending Locations
 :-------------------------:|:-------------------------:
-![](06_Starting_Locations.png)  |  ![](07_Ending_Locations.png)
+![](/Images/06_Starting_Locations.png)  |  ![](/Images/07_Ending_Locations.png)
 ##### Fig 06. Top Starting and Ending Locations
 
 
 ## Resources:
 
-The report where the screenshots above were captured can be found at this link:
-[Visualization](https://public.tableau.com/app/profile/ericosabino/viz/CitiBikeTripData-Challenge/NYCCitibikeAnalysis)
+The report where the screenshots above were captured can be found at
+[this link](https://public.tableau.com/app/profile/ericosabino/viz/CitiBikeTripData-Challenge/NYCCitibikeAnalysis):
 
 
 
